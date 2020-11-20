@@ -7,7 +7,7 @@ int main() {
     float mutationPropability = 0;
     float crossPropability = 0;
 
-    gen_algorithm algorithm;
+    //gen_algorithm algorithm;
 
     do
     {
@@ -33,6 +33,6 @@ int main() {
         
     } while (crossPropability < 0 || crossPropability > 100);
 
-    algorithm.gen_function(populationSize, mutationPropability, crossPropability);
+    //algorithm.gen_function(populationSize, mutationPropability, crossPropability);
 
 }
