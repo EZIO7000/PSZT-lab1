@@ -1,6 +1,12 @@
 {
     "files.associations": {
-        "*.tpp": "cpp"
+        "*.tpp": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "numeric": "cpp",
+        "optional": "cpp",
+        "fstream": "cpp",
+        "sstream": "cpp"
     },
     "terminal.integrated.shell.windows": "cmd.exe"
 }

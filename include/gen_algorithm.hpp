@@ -1,6 +1,9 @@
 #pragma once
 
 class gen_algorithm {
+private:
+    void cross();
+    void mutate();
 
 public:
     gen_algorithm();
